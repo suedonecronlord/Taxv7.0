@@ -1,6 +1,6 @@
 {
-  "name": "UAE POS Tax & Currency Utility",
-  "short_name": "Tax & FX POS",
+  "name": "UAE POS Tax &amp; Currency Utility",
+  "short_name": "Tax &amp; FX POS",
   "description": "UAE POS Tax Refund, Live Multi-Currency Converter, and Monthly Installment Planner",
   "start_url": "./",
   "scope": "./",
